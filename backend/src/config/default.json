@@ -1,0 +1,4 @@
+{
+    "mongoDBConnectURI": "mongodb+srv://Dravid:Dravid266@cluster1.kzire.mongodb.net/DbDemo?retryWrites=true&w=majority",
+    "jwtsecret": "secret"
+  }
