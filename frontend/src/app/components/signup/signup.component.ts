@@ -9,7 +9,7 @@ import { Router } from '@angular/router'
 })
 export class SignupComponent implements OnInit {
 
-  user = {}
+  user:any = {}
   constructor(
     private authService: AuthService,
     private router: Router

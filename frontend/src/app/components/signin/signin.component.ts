@@ -8,7 +8,7 @@ import { Router } from '@angular/router'
   styleUrls: ['./signin.component.css']
 })
 export class SigninComponent implements OnInit {
-  user = {};
+  user: any = {};
 
   constructor(
     private authService: AuthService,
